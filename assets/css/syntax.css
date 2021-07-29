@@ -196,3 +196,8 @@
 .highlight .o {
     color: #f92672;
 }
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+    background: #171919;
+}
