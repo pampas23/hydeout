@@ -2,6 +2,7 @@
 layout: page
 title: Archives
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 <ul class="archive">
   {% for post in site.posts %}
