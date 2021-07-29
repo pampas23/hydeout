@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Hydeout
+title: Hello Hydeout ArcAMP
 excerpt_separator:  <!--more-->
 ---
 
